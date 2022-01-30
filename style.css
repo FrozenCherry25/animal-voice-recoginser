@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Special Elite', cursive;
+    background: linear-gradient(to right top, #ff0000, #ff6600, #eb5353, #f54646, #fffb0a);
+
+}
+
+.header_div
+{
+    background: linear-gradient(to right top, #ff0000, #ff6600, #eb5353, #f54646, #fffb0a);
+    color: #ce2700;
+}
+
+
+.header_div p{
+    font-family: 'Shadows Into Light';
+    color: rgb(0, 0, 0);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Shadows Into Light';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #00ccff;
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
